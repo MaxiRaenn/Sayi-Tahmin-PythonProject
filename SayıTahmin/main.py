@@ -1,3 +1,4 @@
+#BarkınEgeDilek
 from random import randint
 
 sayi1 = randint(0,250)
