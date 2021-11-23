@@ -16,4 +16,3 @@ while True:
     else:
         print("Rastele seçilen sayı {0}!".format(rand))
         print("Tahmin sayınız {0}".format(sayac))
-        input("")
